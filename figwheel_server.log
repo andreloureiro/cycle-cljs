@@ -1,0 +1,1101 @@
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[31mFailed to compile "resources/public/js/compiled/cycle.js" in 0.095 seconds.[0m
+[31mCompiling "resources/public/js/compiled/cycle.js" failed.
+[0m[31mANALYSIS ERROR: No such namespace: cljsjs/rx, could not locate cljsjs_SLASH_rx.cljs, cljsjs_SLASH_rx.cljc, or Closure namespace "rx" in file /Users/aloureirodep/Projects/Personal/ClojureScript/cycle/src/cycle/core.cljs on file null, line null, column null[0m
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[31mFailed to compile "resources/public/js/compiled/cycle.js" in 0.079 seconds.[0m
+[31mCompiling "resources/public/js/compiled/cycle.js" failed.
+[0m[31mANALYSIS ERROR: No such namespace: cljsjs.rx, could not locate cljsjs/rx.cljs, cljsjs/rx.cljc, or Closure namespace "cljsjs.rx" in file /Users/aloureirodep/Projects/Personal/ClojureScript/cycle/src/cycle/core.cljs on file null, line null, column null[0m
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[31mFailed to compile "resources/public/js/compiled/cycle.js" in 0.08 seconds.[0m
+[31mCompiling "resources/public/js/compiled/cycle.js" failed.
+[0m[31mANALYSIS ERROR: No such namespace: cljsjs.rx, could not locate cljsjs/rx.cljs, cljsjs/rx.cljc, or Closure namespace "cljsjs.rx" in file /Users/aloureirodep/Projects/Personal/ClojureScript/cycle/src/cycle/core.cljs on file null, line null, column null[0m
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[31mFailed to compile "resources/public/js/compiled/cycle.js" in 0.07 seconds.[0m
+[31mCompiling "resources/public/js/compiled/cycle.js" failed.
+[0m[31mANALYSIS ERROR: Could not locate cljs/core/async__init.class or cljs/core/async.clj on classpath. in file /Users/aloureirodep/Projects/Personal/ClojureScript/cycle/src/cycle/core.cljs on file null, line null, column null[0m
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[31mFailed to compile "resources/public/js/compiled/cycle.js" in 0.074 seconds.[0m
+[31mCompiling "resources/public/js/compiled/cycle.js" failed.
+[0m[31mANALYSIS ERROR: Could not locate cljs/core/async__init.class or cljs/core/async.clj on classpath. in file /Users/aloureirodep/Projects/Personal/ClojureScript/cycle/src/cycle/core.cljs on file null, line null, column null[0m
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 2.331 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.115 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[31mFailed to compile "resources/public/js/compiled/cycle.js" in 0.095 seconds.[0m
+[31mCompiling "resources/public/js/compiled/cycle.js" failed.
+[0m[31mANALYSIS ERROR: Wrong number of args (0) passed to: macros/go-loop at line 12 /Users/aloureirodep/Projects/Personal/ClojureScript/cycle/src/cycle/core.cljs on file /Users/aloureirodep/Projects/Personal/ClojureScript/cycle/src/cycle/core.cljs, line 12, column 3[0m
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.107 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.137 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[31mFailed to compile "resources/public/js/compiled/cycle.js" in 0.069 seconds.[0m
+[31mCompiling "resources/public/js/compiled/cycle.js" failed.
+[0m[31mANALYSIS ERROR: Wrong number of args (0) passed to: core/let at line 13 src/cycle/core.cljs on file src/cycle/core.cljs, line 13, column 3[0m
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.133 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.535 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.1 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.2 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.136 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.567 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.17 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.164 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.168 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.166 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[31mFailed to compile "resources/public/js/compiled/cycle.js" in 0.129 seconds.[0m
+[31mCompiling "resources/public/js/compiled/cycle.js" failed.
+[0m[31mANALYSIS ERROR: Parameter declaration "run" should be a vector at line 40 /Users/aloureirodep/Projects/Personal/ClojureScript/cycle/src/cycle/core.cljs on file /Users/aloureirodep/Projects/Personal/ClojureScript/cycle/src/cycle/core.cljs, line 40, column 1[0m
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.161 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.172 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.159 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.16 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.139 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.136 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.137 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.143 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.139 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.146 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.139 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.144 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.133 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+WARNING: Wrong number of args (1) passed to cycle.core/call-drivers at line 23 /Users/aloureirodep/Projects/Personal/ClojureScript/cycle/src/cycle/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.179 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+WARNING: Wrong number of args (1) passed to cycle.core/call-drivers at line 32 /Users/aloureirodep/Projects/Personal/ClojureScript/cycle/src/cycle/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.187 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+WARNING: Wrong number of args (1) passed to cycle.core/call-drivers at line 32 /Users/aloureirodep/Projects/Personal/ClojureScript/cycle/src/cycle/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.18 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.168 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.186 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.248 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.194 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.188 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.189 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.189 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.199 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.202 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.199 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.21 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.206 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.257 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+WARNING: Use of undeclared Var cycle.core/sources at line 35 /Users/aloureirodep/Projects/Personal/ClojureScript/cycle/src/cycle/core.cljs
+WARNING: Use of undeclared Var cycle.core/sources at line 36 /Users/aloureirodep/Projects/Personal/ClojureScript/cycle/src/cycle/core.cljs
+WARNING: Use of undeclared Var cycle.core/sinks at line 37 /Users/aloureirodep/Projects/Personal/ClojureScript/cycle/src/cycle/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.645 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+WARNING: Use of undeclared Var cycle.core/sources at line 36 /Users/aloureirodep/Projects/Personal/ClojureScript/cycle/src/cycle/core.cljs
+WARNING: Use of undeclared Var cycle.core/sinks at line 37 /Users/aloureirodep/Projects/Personal/ClojureScript/cycle/src/cycle/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.281 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.228 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.263 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.219 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.216 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.225 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.218 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.222 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.228 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.234 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.292 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.22 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.224 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.229 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[31mFailed to compile "resources/public/js/compiled/cycle.js" in 0.064 seconds.[0m
+[31mCompiling "resources/public/js/compiled/cycle.js" failed.
+[0m[31mANALYSIS ERROR: Wrong number of args (3) passed to: core/for at line 13 /Users/aloureirodep/Projects/Personal/ClojureScript/cycle/src/cycle/core.cljs on file /Users/aloureirodep/Projects/Personal/ClojureScript/cycle/src/cycle/core.cljs, line 13, column 3[0m
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.215 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.198 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.22 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.202 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.209 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.618 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.235 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.204 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.209 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.223 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.205 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.204 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+WARNING: Use of undeclared Var cycle.core/sinks-proxies at line 33 /Users/aloureirodep/Projects/Personal/ClojureScript/cycle/src/cycle/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.254 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.2 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.2 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.201 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.234 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.197 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.194 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.205 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.199 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.242 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.217 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.206 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.247 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.2 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.198 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.204 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.202 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.245 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.204 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.181 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.337 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.178 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.188 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.188 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.209 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.636 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.209 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.219 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.212 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.227 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.217 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.247 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.221 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.228 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.214 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.212 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.24 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.203 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.264 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.201 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.208 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.198 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.136 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.168 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.139 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.136 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.145 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.135 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.142 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.138 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.148 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.144 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.213 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+WARNING: Wrong number of args (3) passed to cljs.core.async.impl.ioc-helpers/put! at line 33 /Users/aloureirodep/Projects/Personal/ClojureScript/cycle/src/cycle/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.242 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.209 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.204 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.215 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.626 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.203 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.227 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.304 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 9.273 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.216 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+WARNING: Use of undeclared Var cycle.core/sources at line 36 /Users/aloureirodep/Projects/Personal/ClojureScript/cycle/src/cycle/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.364 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.214 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.239 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.551 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.19 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.166 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[31mFailed to compile "resources/public/js/compiled/cycle.js" in 0.097 seconds.[0m
+[31mCompiling "resources/public/js/compiled/cycle.js" failed.
+[0m[31mANALYSIS ERROR: Wrong number of args (1) passed to: core/for at line 14 /Users/aloureirodep/Projects/Personal/ClojureScript/cycle/src/cycle/core.cljs on file /Users/aloureirodep/Projects/Personal/ClojureScript/cycle/src/cycle/core.cljs, line 14, column 3[0m
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.184 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.157 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.263 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.181 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.178 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.176 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.174 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.184 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+WARNING: Wrong number of args (1) passed to cljs.core.async/take! at line 8 src/cycle/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.204 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+WARNING: Wrong number of args (1) passed to cljs.core.async/take! at line 8 src/cycle/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.243 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+WARNING: Wrong number of args (1) passed to cljs.core.async/take! at line 8 src/cycle/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.136 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.162 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.169 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.141 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.157 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[31mFailed to compile "resources/public/js/compiled/cycle.js" in 0.095 seconds.[0m
+[31mCompiling "resources/public/js/compiled/cycle.js" failed.
+[0m[31mANALYSIS ERROR: recur argument count mismatch at line 23 src/cycle/core.cljs on file src/cycle/core.cljs, line 23, column 13[0m
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.151 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.148 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.535 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.147 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.586 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[31mFailed to compile "resources/public/js/compiled/cycle.js" in 0.143 seconds.[0m
+[31mCompiling "resources/public/js/compiled/cycle.js" failed.
+[0m[31mANALYSIS ERROR: Wrong number of args (1) passed to: core/for at line 14 src/cycle/core.cljs on file src/cycle/core.cljs, line 14, column 5[0m
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[31mFailed to compile "resources/public/js/compiled/cycle.js" in 0.078 seconds.[0m
+[31mCompiling "resources/public/js/compiled/cycle.js" failed.
+[0m[31mANALYSIS ERROR: Wrong number of args (1) passed to: core/for at line 14 src/cycle/core.cljs on file src/cycle/core.cljs, line 14, column 5[0m
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[31mFailed to compile "resources/public/js/compiled/cycle.js" in 0.166 seconds.[0m
+[31mCompiling "resources/public/js/compiled/cycle.js" failed.
+[0m[31mANALYSIS ERROR: let requires an even number of forms in binding vector at line 28 src/cycle/core.cljs on file src/cycle/core.cljs, line 28, column 3[0m
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.19 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.141 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.123 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.132 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.141 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.142 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[31mFailed to compile "resources/public/js/compiled/cycle.js" in 0.079 seconds.[0m
+[31mCompiling "resources/public/js/compiled/cycle.js" failed.
+[0m[31mANALYSIS ERROR: Wrong number of args (1) passed to: core/for at line 43 src/cycle/core.cljs on file src/cycle/core.cljs, line 43, column 3[0m
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.284 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.38 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.868 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[31mFailed to compile "resources/public/js/compiled/cycle.js" in 0.014 seconds.[0m
+[31mCompiling "resources/public/js/compiled/cycle.js" failed.
+[0mclojure.lang.ExceptionInfo: Only :refer-clojure, :require, :require-macros, :use, :use-macros, and :import libspecs supported at line 1 src/cycle/core.cljs
+ at clojure.core$ex_info.invokeStatic (core.clj:4617)
+    clojure.core$ex_info.invoke (core.clj:4617)
+    cljs.analyzer$error.invokeStatic (analyzer.cljc:580)
+    cljs.analyzer$error.invoke (analyzer.cljc:576)
+    cljs.analyzer$error.invokeStatic (analyzer.cljc:578)
+    cljs.analyzer$error.invoke (analyzer.cljc:576)
+    cljs.analyzer$eval1787$fn__1789$fn__1794.invoke (analyzer.cljc:1929)
+    clojure.core.protocols$fn__6755.invokeStatic (protocols.clj:167)
+    clojure.core.protocols/fn (protocols.clj:124)
+    clojure.core.protocols$fn__6710$G__6705__6719.invoke (protocols.clj:19)
+    clojure.core.protocols$seq_reduce.invokeStatic (protocols.clj:31)
+    clojure.core.protocols$fn__6738.invokeStatic (protocols.clj:75)
+    clojure.core.protocols/fn (protocols.clj:75)
+    clojure.core.protocols$fn__6684$G__6679__6697.invoke (protocols.clj:13)
+    clojure.core$reduce.invokeStatic (core.clj:6545)
+    clojure.core$reduce.invoke (core.clj:6527)
+    cljs.analyzer$eval1787$fn__1789.invoke (analyzer.cljc:1926)
+    clojure.lang.MultiFn.invoke (MultiFn.java:251)
+    cljs.analyzer$analyze_seq_STAR_.invokeStatic (analyzer.cljc:2416)
+    cljs.analyzer$analyze_seq_STAR_.invoke (analyzer.cljc:2414)
+    cljs.analyzer$analyze_seq_STAR__wrap.invokeStatic (analyzer.cljc:2421)
+    cljs.analyzer$analyze_seq_STAR__wrap.invoke (analyzer.cljc:2419)
+    cljs.analyzer$analyze_seq.invokeStatic (analyzer.cljc:2442)
+    cljs.analyzer$analyze_seq.invoke (analyzer.cljc:2423)
+    cljs.analyzer$analyze_form.invokeStatic (analyzer.cljc:2555)
+    cljs.analyzer$analyze_form.invoke (analyzer.cljc:2551)
+    cljs.analyzer$analyze_STAR_.invokeStatic (analyzer.cljc:2602)
+    cljs.analyzer$analyze_STAR_.invoke (analyzer.cljc:2593)
+    cljs.analyzer$analyze.invokeStatic (analyzer.cljc:2618)
+    cljs.analyzer$analyze.invoke (analyzer.cljc:2605)
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[31mFailed to compile "resources/public/js/compiled/cycle.js" in 0.088 seconds.[0m
+[31mCompiling "resources/public/js/compiled/cycle.js" failed.
+[0m[31mANALYSIS ERROR: No such namespace: beicon.extern.rxjs, could not locate beicon/extern/rxjs.cljs, beicon/extern/rxjs.cljc, or Closure namespace "beicon.extern.rxjs" in file resources/public/js/compiled/out/beicon/core.cljc on file null, line null, column null[0m
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[31mFailed to compile "resources/public/js/compiled/cycle.js" in 0.491 seconds.[0m
+[31mCompiling "resources/public/js/compiled/cycle.js" failed.
+[0m[31mANALYSIS ERROR: No such namespace: beicon.extern.rxjs, could not locate beicon/extern/rxjs.cljs, beicon/extern/rxjs.cljc, or Closure namespace "beicon.extern.rxjs" in file resources/public/js/compiled/out/beicon/core.cljc on file null, line null, column null[0m
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[31mFailed to compile "resources/public/js/compiled/cycle.js" in 0.08 seconds.[0m
+[31mCompiling "resources/public/js/compiled/cycle.js" failed.
+[0m[31mANALYSIS ERROR: No such namespace: beicon.extern.rxjs, could not locate beicon/extern/rxjs.cljs, beicon/extern/rxjs.cljc, or Closure namespace "beicon.extern.rxjs" in file resources/public/js/compiled/out/beicon/core.cljc on file null, line null, column null[0m
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[31mFailed to compile "resources/public/js/compiled/cycle.js" in 0.079 seconds.[0m
+[31mCompiling "resources/public/js/compiled/cycle.js" failed.
+[0m[31mANALYSIS ERROR: No such namespace: beicon.extern.rxjs, could not locate beicon/extern/rxjs.cljs, beicon/extern/rxjs.cljc, or Closure namespace "beicon.extern.rxjs" in file resources/public/js/compiled/out/beicon/core.cljc on file null, line null, column null[0m
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[31mFailed to compile "resources/public/js/compiled/cycle.js" in 0.061 seconds.[0m
+[31mCompiling "resources/public/js/compiled/cycle.js" failed.
+[0m[31mANALYSIS ERROR: No such namespace: beicon.extern.rxjs, could not locate beicon/extern/rxjs.cljs, beicon/extern/rxjs.cljc, or Closure namespace "beicon.extern.rxjs" in file resources/public/js/compiled/out/beicon/core.cljc on file null, line null, column null[0m
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[31mFailed to compile "resources/public/js/compiled/cycle.js" in 0.064 seconds.[0m
+[31mCompiling "resources/public/js/compiled/cycle.js" failed.
+[0m[31mANALYSIS ERROR: No such namespace: beicon.extern.rxjs, could not locate beicon/extern/rxjs.cljs, beicon/extern/rxjs.cljc, or Closure namespace "beicon.extern.rxjs" in file resources/public/js/compiled/out/beicon/core.cljc on file null, line null, column null[0m
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[31mFailed to compile "resources/public/js/compiled/cycle.js" in 0.061 seconds.[0m
+[31mCompiling "resources/public/js/compiled/cycle.js" failed.
+[0m[31mANALYSIS ERROR: No such namespace: beicon.extern.rxjs, could not locate beicon/extern/rxjs.cljs, beicon/extern/rxjs.cljc, or Closure namespace "beicon.extern.rxjs" in file resources/public/js/compiled/out/beicon/core.cljc on file null, line null, column null[0m
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+WARNING: Wrong number of args (1) passed to cljs.core.async/take! at line 38 src/cycle/core.cljs
+[31mFailed to compile "resources/public/js/compiled/cycle.js" in 0.131 seconds.[0m
+[31mCompiling "resources/public/js/compiled/cycle.js" failed.
+[0m[31mANALYSIS ERROR: Wrong number of args (1) passed to: core/for at line 45 src/cycle/core.cljs on file src/cycle/core.cljs, line 45, column 5[0m
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+WARNING: Wrong number of args (1) passed to cljs.core.async/take! at line 38 src/cycle/core.cljs
+WARNING: Use of undeclared Var cycle.core/sources at line 60 src/cycle/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.217 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+WARNING: Wrong number of args (1) passed to cljs.core.async/take! at line 38 src/cycle/core.cljs
+WARNING: Use of undeclared Var cycle.core/sources at line 60 src/cycle/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.182 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+WARNING: Wrong number of args (1) passed to cljs.core.async/take! at line 38 src/cycle/core.cljs
+WARNING: Use of undeclared Var cycle.core/sources at line 59 src/cycle/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.202 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+WARNING: Wrong number of args (1) passed to cljs.core.async/take! at line 38 src/cycle/core.cljs
+WARNING: Use of undeclared Var cycle.core/sources at line 59 src/cycle/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.164 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+WARNING: Wrong number of args (1) passed to cljs.core.async/take! at line 38 src/cycle/core.cljs
+WARNING: Use of undeclared Var cycle.core/sources at line 59 src/cycle/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.236 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+WARNING: Wrong number of args (1) passed to cljs.core.async/take! at line 38 src/cycle/core.cljs
+[31mFailed to compile "resources/public/js/compiled/cycle.js" in 0.46 seconds.[0m
+[31mCompiling "resources/public/js/compiled/cycle.js" failed.
+[0m[31mANALYSIS ERROR: Wrong number of args (3) passed to: core/for at line 45 src/cycle/core.cljs on file src/cycle/core.cljs, line 45, column 5[0m
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+WARNING: Wrong number of args (1) passed to cljs.core.async/take! at line 38 src/cycle/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 1.379 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+WARNING: Wrong number of args (1) passed to cljs.core.async/take! at line 38 src/cycle/core.cljs
+WARNING: Use of undeclared Var cycle.core/proxy-source at line 62 src/cycle/core.cljs
+WARNING: Use of undeclared Var cycle.core/proxy-source at line 62 src/cycle/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 1.442 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+WARNING: Wrong number of args (1) passed to cljs.core.async/take! at line 38 src/cycle/core.cljs
+WARNING: Use of undeclared Var cycle.core/proxy-source at line 62 src/cycle/core.cljs
+WARNING: Use of undeclared Var cycle.core/proxy-source at line 62 src/cycle/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.225 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+WARNING: Use of undeclared Var cycle.core/proxy-source at line 62 src/cycle/core.cljs
+WARNING: Use of undeclared Var cycle.core/proxy-source at line 62 src/cycle/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 1.131 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+WARNING: Use of undeclared Var cycle.core/proxy-source at line 63 src/cycle/core.cljs
+WARNING: Use of undeclared Var cycle.core/proxy-source at line 63 src/cycle/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.194 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.156 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.168 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.745 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.141 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.15 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.148 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.136 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.574 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.148 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.133 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.139 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.14 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.143 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.141 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.148 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.136 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.136 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.132 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 4.583 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.226 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 1.227 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.186 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.762 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.174 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[31mFailed to compile "resources/public/js/compiled/cycle.js" in 0.127 seconds.[0m
+[31mCompiling "resources/public/js/compiled/cycle.js" failed.
+[0m[31mANALYSIS ERROR: Wrong number of args (3) passed to: core/for at line 55 src/cycle/core.cljs on file src/cycle/core.cljs, line 55, column 5[0m
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.193 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.222 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.233 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.192 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.205 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.218 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.18 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.525 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.186 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.256 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+WARNING: Use of undeclared Var hiccups.runtime/render-html at line 53 /Users/aloureirodep/Projects/Personal/ClojureScript/cycle/src/cycle/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.224 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+WARNING: Use of undeclared Var hiccups.runtime/render-html at line 55 /Users/aloureirodep/Projects/Personal/ClojureScript/cycle/src/cycle/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 1.131 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+WARNING: Use of undeclared Var hiccups.runtime/render-html at line 56 /Users/aloureirodep/Projects/Personal/ClojureScript/cycle/src/cycle/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.874 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.502 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.196 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.403 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.202 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.185 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.744 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.583 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.19 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.386 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 1.144 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.207 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.197 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.204 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[31mFailed to compile "resources/public/js/compiled/cycle.js" in 0.139 seconds.[0m
+[31mCompiling "resources/public/js/compiled/cycle.js" failed.
+[0m[31mANALYSIS ERROR: No such namespace: beicon.extern.rxjs, could not locate beicon/extern/rxjs.cljs, beicon/extern/rxjs.cljc, or Closure namespace "beicon.extern.rxjs" in file resources/public/js/compiled/out/beicon/core.cljc on file null, line null, column null[0m
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.236 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.196 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.463 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[31mFailed to compile "resources/public/js/compiled/cycle.js" in 0.13 seconds.[0m
+[31mCompiling "resources/public/js/compiled/cycle.js" failed.
+[0m[31mERROR: Invalid token: /push! on file /Users/aloureirodep/Projects/Personal/ClojureScript/cycle/src/cycle/core.cljs, line 50, column 38[0m
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.183 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+WARNING: Use of undeclared Var cycle.core/msg at line 23 src/cycle/core.cljs
+[31mFailed to compile "resources/public/js/compiled/cycle.js" in 0.457 seconds.[0m
+[31mCompiling "resources/public/js/compiled/cycle.js" failed.
+[0m[31mERROR: EOF while reading, starting at line 45 and column 1 on file /Users/aloureirodep/Projects/Personal/ClojureScript/cycle/src/cycle/core.cljs, line 57, column 1[0m
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+WARNING: Use of undeclared Var cycle.core/msg at line 23 src/cycle/core.cljs
+[31mFailed to compile "resources/public/js/compiled/cycle.js" in 0.176 seconds.[0m
+[31mCompiling "resources/public/js/compiled/cycle.js" failed.
+[0m[31mERROR: EOF while reading, starting at line 46 and column 1 on file /Users/aloureirodep/Projects/Personal/ClojureScript/cycle/src/cycle/core.cljs, line 58, column 1[0m
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+WARNING: Use of undeclared Var cycle.core/msg at line 23 src/cycle/core.cljs
+[31mFailed to compile "resources/public/js/compiled/cycle.js" in 0.147 seconds.[0m
+[31mCompiling "resources/public/js/compiled/cycle.js" failed.
+[0m[31mERROR: EOF while reading, starting at line 41 and column 1 on file /Users/aloureirodep/Projects/Personal/ClojureScript/cycle/src/cycle/core.cljs, line 53, column 1[0m
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+WARNING: Use of undeclared Var cycle.core/msg at line 23 src/cycle/core.cljs
+WARNING: Use of undeclared Var cycle.core/dom at line 29 src/cycle/core.cljs
+[31mFailed to compile "resources/public/js/compiled/cycle.js" in 0.299 seconds.[0m
+[31mCompiling "resources/public/js/compiled/cycle.js" failed.
+[0m[31mERROR: EOF while reading, starting at line 42 and column 1 on file /Users/aloureirodep/Projects/Personal/ClojureScript/cycle/src/cycle/core.cljs, line 54, column 1[0m
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+WARNING: Use of undeclared Var cycle.core/msg at line 23 src/cycle/core.cljs
+WARNING: Use of undeclared Var cycle.core/dom at line 29 src/cycle/core.cljs
+[31mFailed to compile "resources/public/js/compiled/cycle.js" in 0.156 seconds.[0m
+[31mCompiling "resources/public/js/compiled/cycle.js" failed.
+[0m[31mERROR: EOF while reading, starting at line 42 and column 1 on file /Users/aloureirodep/Projects/Personal/ClojureScript/cycle/src/cycle/core.cljs, line 54, column 1[0m
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+WARNING: Use of undeclared Var cycle.core/msg at line 23 src/cycle/core.cljs
+WARNING: Use of undeclared Var cycle.core/dom at line 29 src/cycle/core.cljs
+WARNING: Use of undeclared Var cycle.core/proxy-source at line 48 src/cycle/core.cljs
+WARNING: Use of undeclared Var cycle.core/proxy-source at line 48 src/cycle/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 1.51 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.576 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.237 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.287 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.182 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.179 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.181 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 1.267 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.199 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.186 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.175 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.183 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.177 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.238 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.277 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.185 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.177 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.799 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.177 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.175 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.619 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.181 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.183 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.184 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.687 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.183 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.551 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.171 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.182 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 1.234 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+WARNING: Use of undeclared Var cycle.core/html at line 30 src/cycle/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.544 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+WARNING: Use of undeclared Var cycle.core/main at line 20 src/cycle/core.cljs
+WARNING: Use of undeclared Var cycle.core/drivers at line 20 src/cycle/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.568 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+WARNING: No such namespace: devtools, could not locate devtools.cljs, devtools.cljc, or Closure namespace "" at line 3 src/cycle/example.cljs
+WARNING: Use of undeclared Var devtools/install! at line 3 src/cycle/example.cljs
+WARNING: No such namespace: b, could not locate b.cljs, b.cljc, or Closure namespace "" at line 6 src/cycle/example.cljs
+WARNING: Use of undeclared Var b/interval at line 6 src/cycle/example.cljs
+WARNING: No such namespace: b, could not locate b.cljs, b.cljc, or Closure namespace "" at line 8 src/cycle/example.cljs
+WARNING: Use of undeclared Var b/map at line 8 src/cycle/example.cljs
+WARNING: No such namespace: b, could not locate b.cljs, b.cljc, or Closure namespace "" at line 7 src/cycle/example.cljs
+WARNING: Use of undeclared Var b/interval at line 7 src/cycle/example.cljs
+WARNING: Use of undeclared Var cycle.example/log-driver at line 13 src/cycle/example.cljs
+WARNING: Use of undeclared Var cycle.example/dom-driver at line 14 src/cycle/example.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 1.842 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/cycle/example.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+WARNING: No such namespace: devtools, could not locate devtools.cljs, devtools.cljc, or Closure namespace "" at line 4 src/cycle/example.cljs
+WARNING: Use of undeclared Var devtools/install! at line 4 src/cycle/example.cljs
+WARNING: Use of undeclared Var cycle.example/log-driver at line 14 src/cycle/example.cljs
+WARNING: Use of undeclared Var cycle.example/dom-driver at line 15 src/cycle/example.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.338 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/cycle/example.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+WARNING: Use of undeclared Var cycle.core/main at line 17 src/cycle/core.cljs
+WARNING: Use of undeclared Var cycle.core/drivers at line 17 src/cycle/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.315 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+WARNING: Use of undeclared Var cycle.core/main at line 16 src/cycle/core.cljs
+WARNING: Use of undeclared Var cycle.core/drivers at line 16 src/cycle/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.377 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.346 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+WARNING: No such namespace: devtools, could not locate devtools.cljs, devtools.cljc, or Closure namespace "" at line 4 src/cycle/example.cljs
+WARNING: Use of undeclared Var devtools/install! at line 4 src/cycle/example.cljs
+WARNING: Use of undeclared Var cycle.example/log-driver at line 14 src/cycle/example.cljs
+WARNING: Use of undeclared Var cycle.example/dom-driver at line 15 src/cycle/example.cljs
+WARNING: Use of undeclared Var cycle.example/run at line 17 src/cycle/example.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.322 seconds.[0m
+notifying browser that file changed:  out/cycle/example.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+WARNING: No such namespace: devtools, could not locate devtools.cljs, devtools.cljc, or Closure namespace "" at line 5 src/cycle/example.cljs
+WARNING: Use of undeclared Var devtools/install! at line 5 src/cycle/example.cljs
+WARNING: Use of undeclared Var cycle.example/log-driver at line 15 src/cycle/example.cljs
+WARNING: Use of undeclared Var cycle.example/dom-driver at line 16 src/cycle/example.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.29 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/cycle/example.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[31mFailed to compile "resources/public/js/compiled/cycle.js" in 0.577 seconds.[0m
+[31mCompiling "resources/public/js/compiled/cycle.js" failed.
+[0m[31mANALYSIS ERROR: No such namespace: cycle.log, could not locate cycle/log.cljs, cycle/log.cljc, or Closure namespace "cycle.log" in file src/cycle/example.cljs on file null, line null, column null[0m
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+WARNING: No such namespace: devtools, could not locate devtools.cljs, devtools.cljc, or Closure namespace "" at line 7 src/cycle/example.cljs
+WARNING: Use of undeclared Var devtools/install! at line 7 src/cycle/example.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.232 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/cycle/dom.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+WARNING: No such namespace: devtools, could not locate devtools.cljs, devtools.cljc, or Closure namespace "" at line 7 src/cycle/example.cljs
+WARNING: Use of undeclared Var devtools/install! at line 7 src/cycle/example.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.183 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/cycle/log.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 1.383 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/cycle/example.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.19 seconds.[0m
+notifying browser that file changed:  out/cycle/dom.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.163 seconds.[0m
+notifying browser that file changed:  out/cycle/dom.js
+[0mCompiling "resources/public/js/compiled/cycle.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/cycle.js" in 0.231 seconds.[0m
+notifying browser that file changed:  out/cycle/core.js
